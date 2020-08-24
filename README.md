@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo Flores</h1>
-<h3 align="center">A passionate backend developer from Argentina</h3>
+<h3 align="center">A passionate backend (a little frontend) developer from Argentina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lflores" alt="lflores" /> </p>
 
