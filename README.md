@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lflores&label=Profile%20views&color=0e75b6&style=flat" alt="lflores" /> </p>
 
-<p align="left"> <a href="https://twitter.com/triad_leo" target="blank"><img src="https://img.shields.io/twitter/follow/triad_leo?logo=twitter&style=for-the-badge" alt="triad_leo" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@triadleo" target="blank"><img src="https://img.shields.io/twitter/follow/@triadleo?logo=twitter&style=for-the-badge" alt="@triadleo" /></a> </p>
 
-- 🔭 I’m currently working on [factura digital](hhttps://github.com/lflores/facturadigital)
+- 🔭 I’m currently working on [Factura Digital Argentina](https://github.com/lflores/facturadigital)
 
 - 🌱 I’m currently learning **AWS AppSync, AWS Step Functions**
 
-- 💬 Ask me about **Angular, Java,**
+- 💬 Ask me about **Angular, Java, Typescript, Ubuntu**
 
 - 📫 How to reach me **flores.leonardo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/triad_leo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="triad_leo" height="30" width="40" /></a>
+<a href="https://twitter.com/@triadleo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@triadleo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonardo-alberto-flores-2222143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leonardo-alberto-flores-2222143" height="30" width="40" /></a>
 </p>
 
