@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lflores&label=Profile%20views&color=0e75b6&style=flat" alt="lflores" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lflores" alt="lflores" /></a> </p>
+
 - 🔭 I’m currently working on [Factura Digital Argentina](https://github.com/lflores/facturadigital)
 
 - 🌱 I’m currently learning **AWS AppSync, AWS Step Functions, GraphQL. Python**
@@ -17,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@lflores-the-styleful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="@lflores-the-styleful" height="30" width="40" /></a>
+<a href="https://codepen.io/lflores-the-styleful" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="lflores-the-styleful" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonardo-alberto-flores-2222143" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="leonardo-alberto-flores-2222143" height="30" width="40" /></a>
 <a href="https://codesandbox.com/flores.leonardo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="flores.leonardo" height="30" width="40" /></a>
 </p>
