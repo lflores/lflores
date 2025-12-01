@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS AppSync, AWS Step Functions, GraphQL. Python**
 
-- 👯 I’m collaborating with [Proyecto Nahual](https://nahual.github.io/about/) innitative. 
+- 👯 I’m collaborating with [Proyecto Nahual](https://nahual.github.io/about/) initative. 
 
 - 👨‍💻 All of my projects are available at [https://github.com/lflores](https://github.com/lflores)
 
